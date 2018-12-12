@@ -1,0 +1,5 @@
+mizar-nmt-last2 is the previous work  with  less data and its trained models and its dataset instance 
+modified files of mizar-nmt-last mizar-nmt-last2 are in  uploaded into more organized folders {data1**model1} which contains first model trained with less data and  {data2**model2} which contains first model trained with less data the the last but more than data1**model1 
+the most updated one is mizar-data-nmt it contains newest dataset instance and data as well as latest trained model 
+keras nmt is where i trained a NMT model 
+and all the old work on previous data is in resources folder 
